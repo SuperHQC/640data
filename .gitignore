@@ -1,0 +1,6 @@
+
+data/0.jpg
+*.jpg
+.DS_Store
+.ipynb_checkpoints/640proj-checkpoint.ipynb
+*.mp4
